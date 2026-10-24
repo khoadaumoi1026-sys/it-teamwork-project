@@ -1,0 +1,35 @@
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>IT Teamwork Project</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #eef4ff;
+      text-align: center;
+      padding: 50px 20px;
+    }
+    .card {
+      max-width: 600px;
+      margin: auto;
+      padding: 30px;
+      background: white;
+      border-radius: 16px;
+    }
+    h1 { color: #2457a7; }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>IT Teamwork Project</h1>
+    <p>Working together to build better software.</p>
+    <h2>Our Team</h2>
+    <p>Member 1: HTML Development</p>
+    <p>Member 2: CSS Design and Testing</p>
+    <p>We collaborate to create a simple website.</p>
+  </div>
+</body>
+</html>
